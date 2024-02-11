@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "git": "^0.1.5",
+        "jquery": "^3.7.1"
+    }
+}
